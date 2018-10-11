@@ -2,6 +2,9 @@
 Futaba Sakura Theme I made for the 3DS Homebrew tool, FBI, because of boredom.
 
 Instructions:
+Click "Clone or Download"
+Click "Download ZIP"
+Extract the .zip
 Place all the .png files into 3DS:/fbi/theme/.
 If those directories dont exist, create them.
 Do not move any other files because FBI won't read them.
