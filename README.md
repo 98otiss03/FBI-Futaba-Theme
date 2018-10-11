@@ -9,3 +9,6 @@ Enjoy
 
 Demonstration:
 https://www.youtube.com/watch?v=7bHb9rTpumE
+
+Preview if you are lazy that you don't want to watch the video:
+![you lazy shit](https://i.imgur.com/fAqYfhf.png)
